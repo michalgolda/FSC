@@ -1,0 +1,7 @@
+
+.venv
+.coverage
+__pycache__
+*.spec
+build
+dist

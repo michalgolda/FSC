@@ -1,0 +1,13 @@
+altgraph==0.16.1
+colorama==0.4.1
+coverage==4.5.3
+future==0.17.1
+green==2.16.1
+lxml==4.3.3
+macholib==1.11
+pefile==2019.4.18
+pkg-resources==0.0.0
+PyInstaller==3.4
+PyQt5==5.12.2
+PyQt5-sip==4.19.17
+Unidecode==1.0.23
